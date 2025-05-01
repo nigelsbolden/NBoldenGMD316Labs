@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>LunaWolfStudiosEditor.ScriptableSheets.Serializables</RootNamespace>
-    <ProjectGuid>{E2C2E503-FEB4-7A60-E402-FBE6B41C8CAE}</ProjectGuid>
+    <ProjectGuid>{F228D08A-FD68-393D-FF42-9008023ABE3F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>LunaWolfStudiosEditor.ScriptableSheets.Serializables</AssemblyName>
@@ -974,7 +974,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Shared.csproj">
-      <Project>{8EFC51D1-8D8D-5318-96A9-81059711EB78}</Project>
+      <Project>{B8DD58EA-05AC-9645-A145-79B2ED4B8E53}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Shared</Name>
     </ProjectReference>
   </ItemGroup>

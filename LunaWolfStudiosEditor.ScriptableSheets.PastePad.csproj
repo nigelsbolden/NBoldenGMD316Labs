@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>LunaWolfStudiosEditor.ScriptableSheets.PastePad</RootNamespace>
-    <ProjectGuid>{C4901111-11C0-52EF-3DBF-ECA6273463B4}</ProjectGuid>
+    <ProjectGuid>{796AC624-67F3-7067-A46F-26AC4D46019E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>LunaWolfStudiosEditor.ScriptableSheets.PastePad</AssemblyName>
@@ -973,7 +973,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Layout.csproj">
-      <Project>{85895CC1-9A1E-7057-11A0-8725F850D2CB}</Project>
+      <Project>{98AD4A0B-E4E1-4CFE-A87D-2E67B6DE06FE}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Layout</Name>
     </ProjectReference>
   </ItemGroup>

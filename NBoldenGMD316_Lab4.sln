@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7BBD78BC-8466-5435-2790-54B625F9AE69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaWolfStudiosEditor.ScriptableSheets.Scanning", "LunaWolfStudiosEditor.ScriptableSheets.Scanning.csproj", "{4711A257-B2E5-4753-3DEB-BCED396113DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaWolfStudiosEditor.ScriptableSheets.Tables", "LunaWolfStudiosEditor.ScriptableSheets.Tables.csproj", "{E79AA43B-C711-C28C-2FC5-74A30D370484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaWolfStudiosEditor.ScriptableSheets", "LunaWolfStudiosEditor.ScriptableSheets.csproj", "{A83E12DB-9F58-C148-BB18-E44A68553B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaWolfStudiosEditor.ScriptableSheets.EditorTests", "LunaWolfStudiosEditor.ScriptableSheets.EditorTests.csproj", "{05A34627-76A2-1863-C29E-33E875AEBAFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaWolfStudiosEditor.ScriptableSheets.Layout", "LunaWolfStudiosEditor.ScriptableSheets.Layout.csproj", "{98AD4A0B-E4E1-4CFE-A87D-2E67B6DE06FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaWolfStudiosEditor.ScriptableSheets.Shared", "LunaWolfStudiosEditor.ScriptableSheets.Shared.csproj", "{B8DD58EA-05AC-9645-A145-79B2ED4B8E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaWolfStudiosEditor.ScriptableSheets.PastePad", "LunaWolfStudiosEditor.ScriptableSheets.PastePad.csproj", "{796AC624-67F3-7067-A46F-26AC4D46019E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaWolfStudiosEditor.ScriptableSheets.Comparables", "LunaWolfStudiosEditor.ScriptableSheets.Comparables.csproj", "{EDA0997E-95A0-662C-15C5-C0A131EFC173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunaWolfStudiosEditor.ScriptableSheets.Serializables", "LunaWolfStudiosEditor.ScriptableSheets.Serializables.csproj", "{F228D08A-FD68-393D-FF42-9008023ABE3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BBD78BC-8466-5435-2790-54B625F9AE69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BBD78BC-8466-5435-2790-54B625F9AE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BBD78BC-8466-5435-2790-54B625F9AE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BBD78BC-8466-5435-2790-54B625F9AE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4711A257-B2E5-4753-3DEB-BCED396113DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4711A257-B2E5-4753-3DEB-BCED396113DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4711A257-B2E5-4753-3DEB-BCED396113DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4711A257-B2E5-4753-3DEB-BCED396113DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E79AA43B-C711-C28C-2FC5-74A30D370484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79AA43B-C711-C28C-2FC5-74A30D370484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79AA43B-C711-C28C-2FC5-74A30D370484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79AA43B-C711-C28C-2FC5-74A30D370484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A83E12DB-9F58-C148-BB18-E44A68553B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83E12DB-9F58-C148-BB18-E44A68553B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83E12DB-9F58-C148-BB18-E44A68553B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83E12DB-9F58-C148-BB18-E44A68553B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A34627-76A2-1863-C29E-33E875AEBAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A34627-76A2-1863-C29E-33E875AEBAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A34627-76A2-1863-C29E-33E875AEBAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A34627-76A2-1863-C29E-33E875AEBAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98AD4A0B-E4E1-4CFE-A87D-2E67B6DE06FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AD4A0B-E4E1-4CFE-A87D-2E67B6DE06FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AD4A0B-E4E1-4CFE-A87D-2E67B6DE06FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AD4A0B-E4E1-4CFE-A87D-2E67B6DE06FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DD58EA-05AC-9645-A145-79B2ED4B8E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DD58EA-05AC-9645-A145-79B2ED4B8E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DD58EA-05AC-9645-A145-79B2ED4B8E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DD58EA-05AC-9645-A145-79B2ED4B8E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796AC624-67F3-7067-A46F-26AC4D46019E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796AC624-67F3-7067-A46F-26AC4D46019E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796AC624-67F3-7067-A46F-26AC4D46019E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796AC624-67F3-7067-A46F-26AC4D46019E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA0997E-95A0-662C-15C5-C0A131EFC173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA0997E-95A0-662C-15C5-C0A131EFC173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA0997E-95A0-662C-15C5-C0A131EFC173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA0997E-95A0-662C-15C5-C0A131EFC173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F228D08A-FD68-393D-FF42-9008023ABE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F228D08A-FD68-393D-FF42-9008023ABE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F228D08A-FD68-393D-FF42-9008023ABE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F228D08A-FD68-393D-FF42-9008023ABE3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>LunaWolfStudiosEditor.ScriptableSheets.EditorTests</RootNamespace>
-    <ProjectGuid>{830F186F-D3CA-50A2-7ECE-6361E7E5A375}</ProjectGuid>
+    <ProjectGuid>{05A34627-76A2-1863-C29E-33E875AEBAFD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>LunaWolfStudiosEditor.ScriptableSheets.EditorTests</AssemblyName>
@@ -985,19 +985,19 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.csproj">
-      <Project>{B18C35D8-41A7-A608-8371-A69216E93D00}</Project>
+      <Project>{A83E12DB-9F58-C148-BB18-E44A68553B3C}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Layout.csproj">
-      <Project>{85895CC1-9A1E-7057-11A0-8725F850D2CB}</Project>
+      <Project>{98AD4A0B-E4E1-4CFE-A87D-2E67B6DE06FE}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Layout</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Shared.csproj">
-      <Project>{8EFC51D1-8D8D-5318-96A9-81059711EB78}</Project>
+      <Project>{B8DD58EA-05AC-9645-A145-79B2ED4B8E53}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Shared</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Tables.csproj">
-      <Project>{816BF75E-19FC-C39B-3345-A7C6739B9470}</Project>
+      <Project>{E79AA43B-C711-C28C-2FC5-74A30D370484}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Tables</Name>
     </ProjectReference>
   </ItemGroup>

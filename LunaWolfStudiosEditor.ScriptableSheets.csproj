@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>LunaWolfStudiosEditor.ScriptableSheets</RootNamespace>
-    <ProjectGuid>{B18C35D8-41A7-A608-8371-A69216E93D00}</ProjectGuid>
+    <ProjectGuid>{A83E12DB-9F58-C148-BB18-E44A68553B3C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>LunaWolfStudiosEditor.ScriptableSheets</AssemblyName>
@@ -985,31 +985,31 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Comparables.csproj">
-      <Project>{2A3F400A-4546-B16B-9780-DC66E1FE1128}</Project>
+      <Project>{EDA0997E-95A0-662C-15C5-C0A131EFC173}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Comparables</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Layout.csproj">
-      <Project>{85895CC1-9A1E-7057-11A0-8725F850D2CB}</Project>
+      <Project>{98AD4A0B-E4E1-4CFE-A87D-2E67B6DE06FE}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Layout</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.PastePad.csproj">
-      <Project>{C4901111-11C0-52EF-3DBF-ECA6273463B4}</Project>
+      <Project>{796AC624-67F3-7067-A46F-26AC4D46019E}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.PastePad</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Scanning.csproj">
-      <Project>{54DFB68B-8B10-94F6-5729-67E497B9F557}</Project>
+      <Project>{4711A257-B2E5-4753-3DEB-BCED396113DB}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Scanning</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Serializables.csproj">
-      <Project>{E2C2E503-FEB4-7A60-E402-FBE6B41C8CAE}</Project>
+      <Project>{F228D08A-FD68-393D-FF42-9008023ABE3F}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Serializables</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Shared.csproj">
-      <Project>{8EFC51D1-8D8D-5318-96A9-81059711EB78}</Project>
+      <Project>{B8DD58EA-05AC-9645-A145-79B2ED4B8E53}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Shared</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Tables.csproj">
-      <Project>{816BF75E-19FC-C39B-3345-A7C6739B9470}</Project>
+      <Project>{E79AA43B-C711-C28C-2FC5-74A30D370484}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Tables</Name>
     </ProjectReference>
   </ItemGroup>
