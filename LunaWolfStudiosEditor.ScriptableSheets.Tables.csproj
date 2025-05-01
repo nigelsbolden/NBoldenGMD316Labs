@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>LunaWolfStudiosEditor.ScriptableSheets.Tables</RootNamespace>
-    <ProjectGuid>{496CDA2F-F298-CFA3-575A-2ABFCF847B55}</ProjectGuid>
+    <ProjectGuid>{816BF75E-19FC-C39B-3345-A7C6739B9470}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>LunaWolfStudiosEditor.ScriptableSheets.Tables</AssemblyName>
@@ -989,11 +989,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Serializables.csproj">
-      <Project>{E3871173-D6F7-692C-9FE1-C856BF409DD3}</Project>
+      <Project>{E2C2E503-FEB4-7A60-E402-FBE6B41C8CAE}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Serializables</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Shared.csproj">
-      <Project>{865C30BD-943A-9242-5A01-D99EC7F92775}</Project>
+      <Project>{8EFC51D1-8D8D-5318-96A9-81059711EB78}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Shared</Name>
     </ProjectReference>
   </ItemGroup>

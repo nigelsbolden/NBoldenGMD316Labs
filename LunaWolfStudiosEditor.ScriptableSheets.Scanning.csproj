@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>LunaWolfStudiosEditor.ScriptableSheets.Scanning</RootNamespace>
-    <ProjectGuid>{A6214CA8-155F-7BFB-1C4E-1BAE89B3E9C5}</ProjectGuid>
+    <ProjectGuid>{54DFB68B-8B10-94F6-5729-67E497B9F557}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>LunaWolfStudiosEditor.ScriptableSheets.Scanning</AssemblyName>
@@ -976,11 +976,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Layout.csproj">
-      <Project>{33115DA9-792C-1006-B3B5-9BAA058FC1D2}</Project>
+      <Project>{85895CC1-9A1E-7057-11A0-8725F850D2CB}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Layout</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Shared.csproj">
-      <Project>{865C30BD-943A-9242-5A01-D99EC7F92775}</Project>
+      <Project>{8EFC51D1-8D8D-5318-96A9-81059711EB78}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Shared</Name>
     </ProjectReference>
   </ItemGroup>

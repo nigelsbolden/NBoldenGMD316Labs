@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>LunaWolfStudiosEditor.ScriptableSheets.Shared</RootNamespace>
-    <ProjectGuid>{865C30BD-943A-9242-5A01-D99EC7F92775}</ProjectGuid>
+    <ProjectGuid>{8EFC51D1-8D8D-5318-96A9-81059711EB78}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>LunaWolfStudiosEditor.ScriptableSheets.Shared</AssemblyName>
