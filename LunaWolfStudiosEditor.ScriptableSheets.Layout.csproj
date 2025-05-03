@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>LunaWolfStudiosEditor.ScriptableSheets.Layout</RootNamespace>
-    <ProjectGuid>{31B8BCDA-A81D-07BD-67ED-E7F745511271}</ProjectGuid>
+    <ProjectGuid>{EEC562FA-C4D3-FC07-BB1B-840AE245EB8F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>LunaWolfStudiosEditor.ScriptableSheets.Layout</AssemblyName>
@@ -984,11 +984,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Comparables.csproj">
-      <Project>{C5088B81-35F1-B93C-64AD-1DD0114A8ACC}</Project>
+      <Project>{D857F2FE-232F-CD5D-2CDE-C6A73B3020FD}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Comparables</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Shared.csproj">
-      <Project>{8A4A6C18-E390-3C93-139B-B40C17EFC0D5}</Project>
+      <Project>{FDEFA068-CA44-5696-06EB-82C0BFBD4C2D}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Shared</Name>
     </ProjectReference>
   </ItemGroup>

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8C5DA9B9-C1D9-A263-0017-68A4570E1FC5}</ProjectGuid>
+    <ProjectGuid>{6D6963F6-5DD6-36AB-3C23-EF62EA60B92A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,6 +60,7 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.43f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\ScriptableObjects\PlayerStats.cs" />
     <Compile Include="Assets\Scripts\GUI\QuestNames.cs" />
     <Compile Include="Assets\Scripts\GUI\CharNames.cs" />
     <Compile Include="Assets\Scripts\DataPersistence\Data\GameData.cs" />
@@ -74,8 +75,10 @@
     <Compile Include="Assets\Scripts\DataPersistence\DataPersistenceManager.cs" />
     <Compile Include="Assets\Scripts\GUI\MenuOnOff.cs" />
     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
+    <Compile Include="Assets\Scripts\ObjectPooling\ObjectPool.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\SimpleEnemy.cs" />
     <Compile Include="Assets\Scripts\ScriptableObjects\Item.cs" />
+    <Compile Include="Assets\Scripts\Player\StatUpdate.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerCollision.cs" />
     <Compile Include="Assets\Scripts\GUI\Inventory.cs" />
   </ItemGroup>
@@ -1110,39 +1113,39 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Serializables.csproj">
-      <Project>{EDE091F6-3A88-58AB-2E3D-34FF9B635EC7}</Project>
+      <Project>{82322812-CE5A-215B-FC84-0E44853FEE96}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Serializables</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Layout.csproj">
-      <Project>{31B8BCDA-A81D-07BD-67ED-E7F745511271}</Project>
+      <Project>{EEC562FA-C4D3-FC07-BB1B-840AE245EB8F}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Layout</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Shared.csproj">
-      <Project>{8A4A6C18-E390-3C93-139B-B40C17EFC0D5}</Project>
+      <Project>{FDEFA068-CA44-5696-06EB-82C0BFBD4C2D}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Shared</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.EditorTests.csproj">
-      <Project>{C25F35BA-B8D9-B57D-5DE0-E55C5A5B416B}</Project>
+      <Project>{A4D46A34-BB51-4803-D769-431D35FCAC90}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.EditorTests</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.PastePad.csproj">
-      <Project>{01248C5D-7D5A-D27C-2383-C7C01E3BA28A}</Project>
+      <Project>{933EBEE6-1708-BA6B-8CAB-F070687B069F}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.PastePad</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Tables.csproj">
-      <Project>{9482952D-4BD9-D42D-70AB-895AFE60C5D8}</Project>
+      <Project>{44009974-12E0-A4BD-420A-0F9BCE0E894E}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Tables</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Comparables.csproj">
-      <Project>{C5088B81-35F1-B93C-64AD-1DD0114A8ACC}</Project>
+      <Project>{D857F2FE-232F-CD5D-2CDE-C6A73B3020FD}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Comparables</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.Scanning.csproj">
-      <Project>{0545B447-E72C-EC08-B1CF-24CE9A40988E}</Project>
+      <Project>{3955B59D-8D62-7A14-EFE3-A279069A8D04}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets.Scanning</Name>
     </ProjectReference>
     <ProjectReference Include="LunaWolfStudiosEditor.ScriptableSheets.csproj">
-      <Project>{28C2EE72-4B31-EDED-CF25-D0CD622FFEAE}</Project>
+      <Project>{A67B50A8-6DE0-5169-4EBE-22D2E2C3C5A4}</Project>
       <Name>LunaWolfStudiosEditor.ScriptableSheets</Name>
     </ProjectReference>
   </ItemGroup>
